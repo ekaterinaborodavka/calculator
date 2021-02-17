@@ -1,0 +1,10 @@
+export const PLUS = 'PLUS';
+export const MINUS = 'MINUS';
+export const MULTIPLICATION = 'MULTIPLICATION';
+export const DIVISION = 'DIVISION';
+export const PERCENT = 'PERCENT';
+export const SET_NUMBER = 'SET_NUMBER';
+export const SHOW_RESULT = 'SHOW_RESULT';
+export const CLEAR_VALUE = 'CLEAR_VALUE';
+export const CLEAR_RESULT = 'CLEAR_RESULT';
+export const BACK = 'BACK';
